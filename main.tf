@@ -1,5 +1,3 @@
-// Fri 17 May 2019 12:27 EDT
-
 terraform {
   required_version = ">= 0.11.1"
 }
