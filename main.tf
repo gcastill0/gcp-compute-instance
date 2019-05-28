@@ -1,4 +1,4 @@
-// Fri 17 May 2019 12:30 EDT
+# This is a test
 
 terraform {
   required_version = ">= 0.11.1"
